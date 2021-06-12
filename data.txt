@@ -1,0 +1,325 @@
+1
+Xilang
+Kengkou
+Huadiwan
+Fangcun
+Huangsha
+Changshou Lu
+Chen Clan Academy
+Ximenkou
+Gongyuanqian
+Peasant Movement Institute
+Martyrs' Park
+Dongshankou
+Yangji
+Tiyu Xilu
+Tianhe Sports Center
+Guangzhou East Railway Station
+
+
+2
+Jiahewanggang
+Huangbian
+Jiangxia
+Xiaogang
+Baiyun Culture Square
+Baiyun Park
+Feixiang Park
+Sanyuanli
+Guangzhou Railway Station
+Yuexiu Park
+Sun Yat-sen Memorial Hall
+Gongyuanqian
+Haizhu Square
+The 2nd Workers' Cultural Palace
+Jiangnanxi
+Changgang
+Jiangtai Lu
+Dongxiaonan
+Nanzhou
+Luoxi
+Nanpu
+Huijiang
+Shibi
+Guangzhou South Railway Station
+
+3
+Gangzhou Metro Tianhe Coach Terminal Station
+Wushan
+South China Normal University
+Gangding
+Shipaiqiao
+Tiyu Xilu
+Zhujiang New Town
+Canton Tower
+Kecun
+Datang
+Lijiao
+Xiajiao
+Dashi
+Hanxi Changlong
+ShiQiao
+Panyu Square
+
+3_1
+Tiyu Xilu
+Linhexi
+Guangzhou East Railway Station
+Yantang
+Meihuayuan
+Jingxi Nanfang Hospital
+TongHe
+Yongtai
+Baiyundadaobei
+Jiahewanggang
+Longgui
+Renhe
+Gaozeng
+Airport South Station
+Airport N. Station
+
+4
+Huangcun
+Chebei
+Chebeinan
+Wanshengwei
+Guanzhou
+Higher Education Mega Center North
+Higher Education Mega Center South
+Xinzao
+Guanqiao
+Shiqi
+Haibang
+Dichong
+Dongchong
+Qingsheng
+Huangge Auto Town
+Jiaomen
+Jinzhou
+Feishajiao
+Guanglong
+Dachong 
+Tangkeng
+Nanheng
+Nansha Passenger Port
+
+5
+Jiaokou
+Tanwei
+Zhongshanba
+Xichang
+Xicun
+Guangzhou Railway Station
+Xiaobei
+Taojin
+Ouzhuang
+Zoo
+Yangji
+Wuyangcun
+Zhujiang New Town
+Liede
+Tancun
+Yuancun
+Keyun Lu
+Chebeinan
+Dongpu
+Sanxi
+Yuzhu
+Dashadi
+Dashadong
+Wenchong
+
+6
+Xunfenggang
+Hengsha
+Shabei
+Hesha
+Tanwei
+Ruyifang
+Huangsha
+Cultural Park
+Yide Lu
+Haizhu Square
+Beijing Lu
+Tuanyida Square
+Donghu
+Dongshankou
+Ouzhuang
+Huanghuagang
+Shaheding
+Shahe
+Tianpingjia
+Yantang
+Gangzhou Metro Tianhe Coach Terminal Station
+Changban
+Botanical Garden
+Longdong
+Kemulang
+Gaotangshi
+Huangbei
+Jinfeng
+Xiangang
+Suyuan
+Luogang
+Xiangxue
+
+7
+Guangzhou South Railway Station
+Shibi
+Xiecun
+Zhongcun
+Hanxi Changlong
+Nancun Wanbo
+Yuangang
+Banqiao
+Higher Education Mega Center South
+
+8
+Jiaoxin
+Tinggang
+Shijing
+Xiaoping
+Shitan
+Julong
+Shangbu
+Tong De
+Ezhangtan
+Xicun
+Caihong Qiao
+Chen Clan Academy
+Hualinsi Buddhist Temple
+Cultural Park
+Tongfuxi
+Fenghuang Xincun
+Shayuan
+Baogang Dadao
+Changgang
+Xiaogang
+Sun Yat-sen University
+Lujiang
+Kecun
+Chigang
+Modiesha
+Xingangdong
+Pazhou
+Wanshengwei
+
+9
+Fei'eling
+Huadu Autocity
+Guangzhou North Railway Station
+Huacheng Lu
+Huaguoshan Park
+Huadu Square
+Ma'anshan Park
+Liantang
+Qingbu
+Qingtang
+Gaozeng
+
+13
+Yuzhu
+Yufengwei
+Shuanggang
+Nanhai God Temple
+Xiayuan
+Nangang
+Shacun
+Baijiang
+Xintang
+Guanhu
+Xinsha
+
+14
+Jiahewanggang
+Baiyun Dongping
+XiaLiang
+Taihe
+Zhuliao
+Zhongluotan
+Mali
+Xinhe
+Taiping
+Shengang
+Chicao
+Conghua Coach Terminal
+Dongfeng
+
+14_1
+Xinhe
+Hongwei
+Xinnan
+Fengxia
+Sino-Singapore Guangzhou Knowledge City
+Hetangxia
+Wangcun
+Tangcun
+Zhenlongbei
+Zhenlong
+
+GF
+Xincheng Dong
+Dongping
+Shijilian
+Lanshi
+Kuiqi Lu
+Jihua Park
+Tongji Lu
+Zumiao
+Pujun Beilu
+Chao'an
+Guicheng
+Nangui Lu
+Leigang
+Qiandenghu Lake
+Financial Hi-Tech Zone
+Longxi
+Jushu
+Xilang
+Hedong
+Shachong
+Shayuan
+Yangang
+Shixi
+Nanzhou
+Lijiao
+
+
+
+21
+Yuancun
+Tianhe Park
+Tangdong
+Huangcun
+Daguan Nanlu
+Tianhe Smart City
+Shenzhou Lu
+Science City
+Suyuan
+Shuixi
+Changping
+Jinken
+Zhenlongxi
+Zhenlong
+Zhongxin
+Kengbei
+Fenggang
+Zhucun
+Shantian
+Zhonggang
+Zengcheng Square
+
+
+
+APM
+Linhexi
+Tianhe Sports Center
+Tianhenan
+Huangpudadao
+Guangzhou Women and Children¡®s Medical Center
+Huachengdadao
+Guangzhou Opera House
+Haixinsha
+Canton Tower
+
+
